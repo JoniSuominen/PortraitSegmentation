@@ -2,4 +2,5 @@
 ![Real-Time Segmentation](https://i.imgur.com/wIhXwAi.gif)
 
 MATLAB livescript app made for school exercise.
-If you want a pretrained model, you can ask me for it.
+Link for pretrained model
+https://drive.google.com/file/d/148b9CvT5GWWjVDeMTvXHUjX4cIF36_Y0/view?usp=sharing
